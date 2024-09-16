@@ -1,0 +1,68 @@
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nezars</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Nezar Ehab Ibrahem</h1>
+      <strong>  <p>General Accountant<br>- nezar.e.ibrahem@gmail.com<br>- 01067755312.</p>
+        
+        <h2>Education</h2>
+        <p>- Commerce, Department of Accountant <br>- From : Science Valley Academy <br>- GRAD In 2020</p>
+
+        <h2>EXP</h2>
+        <p>General Accountant <br>-  ( Comet Group ) Start In ( 11-2022 ).<br><br> - Reconcile accounts and prepare bank reconciliations.<br>
+
+- Monitor accounts payable and accounts receivable.<br>
+
+- Maintaining the billing system reconciliations and validations.<br>
+
+- Responsible for following up customer transfers and writing down all documentary and electronic data ( oodo ERPsystem).<br>
+- Maintaining related archiving cycles.
+
+- Reconciling general ledger accounts on regular bases.<br>
+
+- Have experience in the Egyptian Tax Authority (ETA).<br>
+
+- Preparing the VAT declaration.<br>
+
+- Maintaining the confidentiality of the company's financial data and archiving and organizing financial operations in an orderly manner<br>
+
+- Enter all accounting data and financial files into the company's system(oodo ).<br>
+
+- Responsible for updating Files of purchases and sales, as well as managing and following up all financial movements & records the treasury movement.</p>
+
+        <h2>Skills</h2>
+        <p>- Work on Microsoft office (word and Excel)<br>
+
+- Learning and developing<br>
+
+- Experience  in ERP Odoo<br>
+
+- Communication skills .<br>
+- Teamworking ..</p>
+
+        <h2>Languages</h2>
+        <p>Arabic <br>
+          English
+        </p>
+    </div>
+</body>
+</html>
+
